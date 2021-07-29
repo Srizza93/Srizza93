@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Srizza93
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning vue test utils
+- 💞️ I’m looking to collaborate on any project that can enrich my experience
+- 📫 How to reach me simonerizzanl@gmail.com
