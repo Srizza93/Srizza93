@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Srizza93
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning vue test utils
-- 💞️ I’m looking to collaborate on any project that can enrich my experience
-- 📫 How to reach me simonerizzanl@gmail.com
+- 
+Passionate and versatile Full Stack Developer, I master both front-end and back-end technologies. Specialized in the Vue.js and JavaScript ecosystem on the front-end, as well as Java and Springboot on the back-end, I effectively intervene throughout the entire development cycle.
+
